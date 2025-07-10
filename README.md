@@ -3,9 +3,12 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungxhi&layout=compact&theme=radical&hide_border=true" 
     style="margin-right: 20px; border-radius: 30px;" 
   />
+  <img 
+    src="https://streak-stats.demolab.com?user=yungxhi&theme=radical&hide_border=true" 
+    style="border-radius: 30px;" 
+  />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yungxhi&theme=default)
 
 
 
