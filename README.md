@@ -12,7 +12,7 @@
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungxhi&layout=compact&theme=radical&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungxhi&layout=compact&theme=dark&hide_border=true"
       style="border-radius: 30px; width: 370px;"
     />
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yungxhi&utm_content=farm">
