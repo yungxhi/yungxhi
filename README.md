@@ -1,7 +1,7 @@
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungxhi&layout=compact&theme=tokyonight&hide_border=true" 
-    style="margin-right: 20px; border-radius: 30px; color: darkblue;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungxhi&layout=compact&theme=dark&hide_border=true" 
+    style="margin-right: 20px; border-radius: 30px;" 
   />
 </p>
 
