@@ -11,7 +11,7 @@
     <td style="padding-left: 20px; border: none; border-color: transparent;">
       <a href="https://github.com/devxb/gitanimals" style="border: none; border-color: transparent;">
         <img
-          src="https://render.gitanimals.org/lines/yungxhi?pet-id=1"
+          src="https://render.gitanimals.org/guilds/yungxhi/draw"
           style="width: 500px; max-width: 90vw; border-radius: 30px; border: none; border-color: transparent;"
         />
       </a>
@@ -20,3 +20,4 @@
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=darkgray&height=150&section=footer" />
+
