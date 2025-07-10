@@ -3,7 +3,7 @@
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungxhi&layout=compact&theme=radical&hide_border=true"
-    style="border-radius: 30px; max-width: 350px; width: 100%; margin-bottom: 20px;"
+    style="border-radius: 30px; width: 600px; margin-bottom: 20px;"
   />
 
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yungxhi&utm_content=farm">
