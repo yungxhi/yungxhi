@@ -3,7 +3,7 @@
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungxhi&layout=compact&theme=radical&hide_border=true" 
-    style="border-radius: 30px; max-width: 600px; width: 100%;" 
+    style="border-radius: 30px; max-width: 300px; width: 100px;" 
   />
 </div>
 
