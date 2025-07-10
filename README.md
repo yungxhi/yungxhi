@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=transparent)
+<img src="https://capsule-render.vercel.app/api?
+type=waving&color={darkgray}&height=150&section={header or footer}"/>
 
 
   <img 
