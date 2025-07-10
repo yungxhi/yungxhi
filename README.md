@@ -5,7 +5,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-CSS-007ACC?style=flat-&logo=css3"/>
+    <img src="https://img.shields.io/badge/-CSS3-007ACC?style=flat-&logo=css"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff" />
   </p>
