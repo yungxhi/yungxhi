@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=header" />
 
-<div align="center" style="margin-top: -20px;">
+<div align="center" style="margin-top: -20px; margin-bottom: 30px;">
   <h3>Tech Stack</h3>
 
   <p>
