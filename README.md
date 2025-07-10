@@ -17,7 +17,7 @@
     <!-- 가장 많이 쓴 언어 카드 -->
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungxhi&layout=compact&theme=radical&hide_border=true"
-      style="border-radius: 30px; width: 300px;"
+      style="border-radius: 30px; width: 400px;"
     />
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yungxhi&utm_content=farm">
       <img
