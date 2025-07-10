@@ -5,7 +5,8 @@
   />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yungxhi&show_icons=true&count_private=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=yungxhi&theme=default)
+
 
 
 <a href="https://github.com/devxb/gitanimals">
