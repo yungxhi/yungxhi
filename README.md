@@ -20,8 +20,8 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yungxhi&utm_content=farm">
   <img
     src="https://render.gitanimals.org/farms/yungxhi"
-    width="500px"
-    height="100px"
+    width="350"
+    height="300"
   />
   </a>
   
