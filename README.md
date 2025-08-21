@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
     <br>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff" />
   </p>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
