@@ -10,6 +10,8 @@
     <br>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
+    
   </p>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
