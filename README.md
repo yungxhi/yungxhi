@@ -6,7 +6,7 @@
 
   <h4>Frontend</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" height="40" alt="HTML5, CSS3, JavaScript, TypeScript, React" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" height="40" alt="HTML5, CSS3, JavaScript, TypeScript, React, Vue" />
   </p>
 
   <h4>Language</h4>
