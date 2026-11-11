@@ -2,17 +2,24 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header" />
 
-  <h3>Tech Stack</h3>
+  <h3>🛠 Skills</h3>
 
+  <h4>Frontend</h4>
   <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-CSS3-007ACC?style=flat&logo=css" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
-    <br />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" height="40" alt="HTML5, CSS3, JavaScript, TypeScript, React" />
   </p>
+
+  <h4>Language</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,java" height="40" alt="Python, Java" />
+  </p>
+
+  <h4>Design</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae" height="40" alt="Figma, Photoshop, Illustrator, After Effects" />
+  </p>
+
+  <br />
 
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yungxhi&utm_content=farm">
     <img
